@@ -1,5 +1,5 @@
 # Blackjack-game
-Simulatory game allowing for a person to play against a computer
+Simulatory game allowing for a person to play against a computer in Blackjack
 
 # Display
 The display is created using the function 'print_cards' which was built for the purpouse of this game
